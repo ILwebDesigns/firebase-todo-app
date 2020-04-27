@@ -1,0 +1,19 @@
+{
+  "name": "todo-app-firebase",
+  "version": "1.0.0",
+  "description": "Sample app firebase todo app with React",
+  "main": "/functions/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ILwebDesigns/firebase-todo-app.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ILwebDesigns/firebase-todo-app/issues"
+  },
+  "homepage": "https://github.com/ILwebDesigns/firebase-todo-app#readme"
+}
